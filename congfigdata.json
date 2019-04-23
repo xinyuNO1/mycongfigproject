@@ -1,16 +1,16 @@
 {
-    "employees": [
+    "data": [
         {
-            "firstName": "Bill",
-            "lastName": "Gates"
+            "userid": "1001",
+            "canUse": "1"
         },
         {
-            "firstName": "George",
-            "lastName": "Bush"
+            "userid": "1002",
+            "canUse": "1"
         },
         {
-            "firstName": "Thomas",
-            "lastName": "Carter"
+            "userid": "1003",
+            "canUse": "1"
         }
     ]
 }
